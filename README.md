@@ -1,4 +1,10 @@
-# Hi, I'm Sayuj 
+<div align="center">
+
+  # Sayuj Shrestha
+  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Expected+Dec+2026;Always+learning+new+things;Denver+Nuggets+fan" />
+</div>
 
 ## About me:
 - Pursuing a B.S. in Computer Science at MSU Denver (Expected Dec 2026)
