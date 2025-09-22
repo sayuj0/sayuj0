@@ -1,5 +1,5 @@
 # Hi, I'm Sayuj 
-🎓 Studying Computer Science at Metropolitan State University of Denver<br>🔭 Currently working on software engineering projects and automation tools<br>🌱 Learning full-stack dev with a focus on APIs and backend systems <br>💬 Ask me about anything software engineering related
+Studying Computer Science at Metropolitan State University of Denver<br> Proficient in Python, Java, HTML, and CSS <br> My toolkit includes Flask, SQLAlchemy, Git, Docker, Selenium, and Pytest <br> Currently expanding my skills in cloud computing AWS and containerization with Kubernetes
 
 ## Skills:
 <div align="left">
