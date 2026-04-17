@@ -11,7 +11,6 @@
 - Learning Assistant helping students in Java, OOP, data structures, and algorithms
 - Interested in unit testing, APIs, cloud computing, automation, and open source development
 - Building full-stack web apps, research tools, and interactive websites with Python, Flask, JavaScript, React, and SQL
-- Portfolio: [sayuj.dev](https://sayuj.dev)
 
 ## Tech Stack  
 
