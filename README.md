@@ -56,10 +56,13 @@
 ## Connect with Me:
 <div align="left">
   <a href="https://www.linkedin.com/in/sayujs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sayujs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
   <a href="https://sayuj.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sayuj.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
+  </a>
+  <a href="mailto:sayuj21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </div>
 
